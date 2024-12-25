@@ -56,7 +56,21 @@ Follow the steps below to set up the project locally:
 - Accurate implementation of the Figma design.
 - Fully functional and responsive frontend components.
 - Optimized performance for seamless user experience.
-
+ ## Directory
+ ```json
+├── public/                # Static assets
+├── src/
+│   ├── assets/        # assets
+│   ├──repo.jsx            # Application pages
+│   ├── App.jsx            # Main app entry
+│   ├── main.jsx           # Vite's main entry
+│   └── signin.jsx  
+|   |── index.css
+|   |── App.css    
+├── package.json           # Project dependencies and scripts
+├── vite.config.js         # Vite configuration
+└── README.md              # Project documentation
+```
 ## Dependencies
 
 This project uses the following dependencies:
