@@ -3,9 +3,6 @@
 
 
 
-## Overview
-
-This project is part of the Frontend Developer Intern Hiring Assignment. The goal is to implement a fully functional frontend design using ReactJS, HTML, and CSS.
 
 ## Objective
 
