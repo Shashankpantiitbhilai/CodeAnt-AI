@@ -1,5 +1,5 @@
 
-# CodeAnt AI Frontend Developer Intern Hiring Assignment
+# CodeAnt AI
 
 
 
